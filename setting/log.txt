@@ -1,0 +1,11 @@
+6 |  empty  =  LH001  |  Hello
+6 |  empty  =  LH001  |  Hello
+0 |  Hello  =  Hello World  |  Hello
+7 |  LH001  =  empty  |  Hello World
+6 |  empty  =  KTPM01  |  Hello World
+6 | empty = KTPM01 | Hello World
+6 | empty = LH001 | Hello World
+6 | empty = LH001 | Hello World
+6 | empty = LH001 | Hello World
+6 | empty = LH001 | Hello World
+6 | empty = NLLT01 | Hello World
