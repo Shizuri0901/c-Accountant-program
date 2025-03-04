@@ -1,7 +1,3 @@
-# c-Accountant-program
-
-##Made with my team 
-
 #Công việc:
 - Vũ Mạnh Huy:
 -- [x] Lập danh sách phân chia công việc cho mọi người
@@ -25,10 +21,12 @@
 -- [X] In ra danh sách các lớp học có số học viên lớn hơn một mức nào đó (Yêu cầu phải ghi ra lớp nào có bao nhiêu học sinh đồng thời phải sắp xếp theo thứ tự cao thấp)
 -- [X] Làm ppt về phần của chính mình
 
-
 - Trần Nguyễn Hoàng Ân
 -- [X] Làm một hàm tính tổng tổng quát (bao gồm 2 tham chiếu là mảng và số lượng)
 -- [X] Tính tổng số giờ học của các lớp học thêm chức năng chọn riêng các lớp để tính, thêm tính năng lựa chọn tất cả để tăng Quality of life (Để người dùng có thể nhập nhiều lớp cùng 1 lần nhập, thì ta dùng getline tách ra bởi dấu cách xong để vào array rồi bắt đầu tính)
 -- [X] Tính tổng số học viên theo các lớp học (Như trên)
 -- [X] Tính tổng doanh thu của lớp học (Như trên)
 -- [X] Làm ppt về phần của chính mình
+
+
+##Made with my team 
